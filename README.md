@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit kushwaha</h1>
 <h3 align="center">Coding is my passion I am from india</h3>
 
-- This is My Project [](amit-develober.github.io/glow)
+- This is My Project [icons](https://amit-develober.github.io/glow/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
