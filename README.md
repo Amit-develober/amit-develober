@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit kushwaha</h1>
 <h3 align="center">Coding is my passion I am from india</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-develober" alt="amit-develober" /></a> </p>
-
 - This is My Project [Glow ICONS](amit-develober.github.io/glow)
 
 <h3 align="left">Connect with me:</h3>
